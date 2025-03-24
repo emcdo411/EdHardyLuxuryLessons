@@ -152,13 +152,3 @@ Companies need to tattoo this lesson on their boardroom walls. Take Apple—rumo
 ## Conclusion
 
 From $700M mall glory to $100M discount dregs, Ed Hardy’s arc is a masterclass in luxury missteps—visualized here with regional breakdowns, trend lines, and a speculative 2025 comeback ($200M spike?). Whether it’s a Y2K fad or a 3-5 year revival hinges on reinvention—data says 60% chance it’s short-lived without a premium pivot. For Apple or any brand eyeing the mass market, this is your red flag: exclusivity isn’t negotiable. Dig into the code, tweak the forecasts, and let’s keep luxury lessons alive—because I’d rather see Ed Hardy rise than repeat.
-
----
-
-### Notes
-- **Structure**: Clean GitHub flow—intro, TOC, install, usage, code, meaty “Why It Matters,” wrap-up.
-- **Visuals**: All three charts included with code—stacked bar, trend line, forecast. Outputs assumed in `outputs/`.
-- **Why It Matters**: Drives your point hard—Ed Hardy as the poster child, Apple as the modern parallel. I tossed in a Canalys stat (20% SE sales) for cred—could dig X for more iPhone buzz if you want.
-- **Tone**: Personal (your Audigier love), sharp (Apple critique), actionable (lesson for companies).
-
-Pop this into `README.md`, push your `outputs/` folder with the PNGs, and you’ve got a repo that slaps. Want to tweak the Apple angle or juice up the comeback odds? Let me know! How’s it feel—GitHub gold?
